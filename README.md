@@ -8,7 +8,7 @@
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](![Screenshot_4](https://user-images.githubusercontent.com/65931981/206862070-868e44b1-311a-45b4-8746-f853dd3b64b0.png)#vitrinedev)
 
-## Desafio do projeto - 1
+## Desafio do projeto
 
 Identificar os papéis de cada tecnologia da Web para construção de páginas<br />
 Associar o JavaScript com HTML através do DOM<br />
