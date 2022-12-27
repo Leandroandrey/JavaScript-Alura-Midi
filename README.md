@@ -16,7 +16,6 @@ Implementar funções com JavaScript<br />
 Investigar possibilidades de resolução de problemas de código<br />
 Selecionar operadores lógicos adequados para diferentes situações<br />
 Produzir soluções simples para páginas dinâmicas<br />
-
-##Obs: Realizado apenas a parte do JavaScript
+Realizado apenas a parte do JavaScript (Observação)
 
 ![image](https://user-images.githubusercontent.com/65931981/209727826-6c83b0e4-9a79-4d3f-ac4e-a0ef676d2195.png)
