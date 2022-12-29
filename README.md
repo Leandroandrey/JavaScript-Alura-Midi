@@ -2,7 +2,7 @@
 | :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
 | -------------  | --- |
 | :sparkles: Nome      | **JavaScript para Web: Crie páginas dinâmicas (Alura Midi)**
-| :label: Tecnologias  |  JavaScript (tecnologias utilizadas)
+| :label: Tecnologia |  JavaScript (tecnologias utilizadas)
 | :rocket: Certificado | https://cursos.alura.com.br/user/Leandroandrey/course/javascript-web-paginas-dinamicas/certificate
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
